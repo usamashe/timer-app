@@ -1,0 +1,22 @@
+.container {
+  box-sizing: border-box;
+  background: #cc2c2c;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 0;
+  user-select: none;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  padding: 0 20px;
+}
+
+.logo {
+  height: 75px;
+  pointer-events: none;
+}
+
+.title {
+  font-size: 3rem !important;
+}

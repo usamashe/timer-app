@@ -1,0 +1,14 @@
+.container {
+    box-sizing: border-box;
+    background: #ebebeb;
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.padding {
+    height: 38px;
+}
